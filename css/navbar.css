@@ -1,0 +1,40 @@
+.nav-item a {
+    font-family: "Poppins", medium;
+    font-size: 1em;
+    color: #767676;
+}
+
+span {
+    color: #49163E;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+
+li .nav-item:last-child {
+    padding-right: 10.5em;
+}
+
+li .nav-item {
+    padding-left: 2em;
+}
+
+ .navbar-brand {
+    padding-left: 8rem;
+}
+
+.nav-link:hover {
+    color: cornflowerblue;
+}
+
+.btn-daftar {
+    font-weight: bold;
+    background-color: #B30033;
+    color: #fff;
+}
+
+.btn-masuk {
+    border-radius: 30px;
+    font-weight: bold;
+    border-color: #B30033;
+    color: #B30033;
+}

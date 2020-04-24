@@ -1,0 +1,113 @@
+.biru{
+    background: #c4ffff;
+}
+
+.biru-2{
+    background: #a5d8ff;
+}
+
+.nibba{
+    background: #263238;
+}
+
+
+
+.bek {
+  --bg: url(../images/bekgron.png);
+  --bgcolor: #F3F3F3;
+  background-image: var(--bg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 24px;
+    z-index: -1;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    img {
+      flex: 50%;
+      max-width: 75%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    img {
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
+    img {
+      flex: 75%;
+      max-width: 75%;
+    }
+  }
+
+  @media screen and (max-width: 1920px) {
+    .my-img {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+
+  .transparan{
+    opacity: 0.6;
+  }
+
+  .kandel{
+    opacity: 1;
+
+  }
+
+  .med{
+    font-size: 25px;
+  }
+
+  .legok{
+    border-radius: 24px;
+  }
+
+  .kotak-dunia{
+    background: url("../images/kotak_dunia.png");
+    width: 50px;
+    height: 119px;
+    float: right;
+    background: #0d47a1;
+  }
+
+  .poppins{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 36px;
+    color : rgb(0, 106, 155);
+  }
+
+  .alata{
+    font-family: "Alata", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 40px;
+  }
+
+  .oxygen{
+    font-family: "Oxygen", sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 50px;
+    line-height: 50px;
+    color: #00445f;
+  }
+
+  .poppins-ori{
+    
+      font-family: "Poppins", sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      line-height: 36px;
+    }
+  

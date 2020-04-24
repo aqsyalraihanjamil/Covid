@@ -1,0 +1,31 @@
+.alata{
+    font-family: "Alata", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 40px;
+  }
+
+  .oxygen{
+    font-family: "Oxygen", sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 50px;
+    line-height: 50px;
+    color: #00445f;
+  }
+
+  .poppins-ori{
+    
+      font-family: "Poppins", sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      line-height: 36px;
+    }
+  
+    .legok{
+      border-radius: 24px;
+    }
+
+    .biru{
+      background-color: cornflowerblue;
+    }

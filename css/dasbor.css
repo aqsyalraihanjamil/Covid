@@ -1,0 +1,67 @@
+.bek {
+    --bg: url(../images/bekbod.png);
+    --bgcolor: #F3F3F3;
+    background-image: var(--bg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      z-index: -1;
+      border-bottom-left-radius: 40px;
+      border-bottom-right-radius: 40px;
+  }
+
+.biru{
+    background-color: #90caf9;
+    border-radius: 24px;
+}
+
+.teks-biru{
+    color: #90caf9;
+}
+
+.abu{
+  background-color: #9b9b9b;
+  border-radius: 24px;
+}
+
+.legok{
+  border-radius: 24px;
+}
+
+.poppins{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 36px;
+    color : rgb(0, 106, 155);
+  }
+
+  .alata{
+    font-family: "Alata", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+  }
+
+  .gedi{
+    font-size: 50px;
+  }
+
+  .med{
+    font-size: 25px;
+  }
+  .oxygen{
+    font-family: "Oxygen", sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    line-height: 50px;
+    color: #00445f;
+  }
+
+  .poppins-ori{
+    
+      font-family: "Poppins", sans-serif;
+      font-style: normal;
+      font-weight: bold;
+      line-height: 36px;
+    }
